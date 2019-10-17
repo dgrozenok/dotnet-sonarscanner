@@ -1,5 +1,5 @@
 # dotnet-sonarscanner
-An docker image for running the sonnar-scanner while building dotnet core applications.
+A docker image for running the sonnar-scanner while building dotnet core applications.
 
 Example of running the image:
 
